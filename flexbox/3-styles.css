@@ -384,6 +384,9 @@
   .section-latest-news .row {display:flex;
 flex-direction:row-reverse;
 }
+/* Section SERVICES ============================= */
+.section-latest-news .row {display:flex;
+    flex-wrap: wrap;}
   
   /*** 4. CARD ***/
   
