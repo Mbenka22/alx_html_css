@@ -457,9 +457,11 @@
   
   /* Card SERVICES
       ============================= */
-      .section-service {display: flex;
-        justify-content: space-around;
-        align-items: center;}
+    .section-services{display:flex;
+    justify-content: :space-around;
+align-items:center;}
+.section-services{display:flex;
+flex:1;}
  .card-services .card-title {
     margin: 0;
   }
