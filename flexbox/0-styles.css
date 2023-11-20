@@ -196,7 +196,7 @@
   }*/
   
   
- /*.float:left  [class*='col-'] {
+ [class*='col-'] /*.float-left{
     float: left;
     padding: 0.5rem;
   }*/
