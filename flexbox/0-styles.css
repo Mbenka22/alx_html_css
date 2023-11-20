@@ -197,10 +197,10 @@
   
   
 
-/*.float:left[class*='col-'] {
-    float: left;
+[class*='col-'] {
+    float: none;/*remove the float left*/
     padding: 0.5rem;
- }*/
+ }
   
   
   .col-1-3 {
