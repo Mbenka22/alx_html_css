@@ -179,6 +179,12 @@
   
   /* Grid
       ============================= */
+      {dispaly:flex;
+    flex-direction:row; 
+}
+
+
+
   
   ul.row {
     margin: 0;
