@@ -197,8 +197,8 @@
   
   
 
-[class*='col-'] {
-    float: none;
+[class*='col-'] {/*float-left
+    float: none;*/
     padding: 0.5rem;
  }
   
