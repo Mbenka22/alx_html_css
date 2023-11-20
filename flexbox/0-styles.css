@@ -179,14 +179,11 @@
   
   /* Grid
       ============================= */
-      {dispaly:flex;
+      {display:flex;
     flex-direction:row; 
-}
+        }
 
-
-
-  
-  ul.row {
+ ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
