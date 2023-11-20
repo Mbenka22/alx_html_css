@@ -458,14 +458,9 @@
   /* Card SERVICES
       ============================= */
       .section-service {display: flex;
-    flex-direction:row;
-flex-wrap:wrap;}
-
-
-      
-
-  
-  .card-services .card-title {
+        justify-content: space-around;
+        align-items: center;}
+ .card-services .card-title {
     margin: 0;
   }
   
