@@ -232,8 +232,8 @@
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
     letter-spacing: var(--nav-item-letter-spacing);
-    .nav .nav-item : var(--nav-item-display);*/
-   /*margin: var(--nav-item-margin 0 0 0 2rem);*/
+   /* .nav .nav-item : var(--nav-item-display);*/
+   margin: var(--nav-item-margin 0 0 0 2rem);
   }
   
   .nav .nav-link {
