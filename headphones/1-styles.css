@@ -1,0 +1,39 @@
+body main{display:flex;
+height:auto;}
+
+
+/*header section styling*/
+.main header{dispaly :flex;
+flex-direction:column
+justify-content:space-between
+align-items:center
+background-image:<a href =headphones_hero_1.jpg
+
+.nav-bar{display:flex
+flex-direction:row;
+justify-content:space-between
+}
+.logo {
+
+}
+
+.nav-link{display :flex;
+flex-direction:row;
+justify-content:space-between;
+width:auto;
+}
+
+.ul
+{display:flex;
+flex-direction:row;
+justify-content:space-around;
+width:fit-content;
+}
+.header-container-doc{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+    align-items: center;
+    height: 35px;
+    width: 150px;
+}
