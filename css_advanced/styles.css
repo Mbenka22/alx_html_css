@@ -1,0 +1,269 @@
+
+body main{
+    display:flex;
+    flex-direction:column;
+    height:auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/*---Header and banner section--*/
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height:10vh;
+    background-attachment: fixed;
+    margin-top: 30px;
+}
+
+.header img{
+    display:flex;
+    flex-direction: row;
+    width:40vh;
+    margin-left: 50px;
+    margin-top: 20px
+    }
+
+.nav{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    list-style-type:none;
+    stroke-linecap: round;
+    width:50vh;
+    
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items:center;
+}
+.legacy-banner{
+    background-image: url(images/Object.png);
+}
+.profiles{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:200vh
+}
+.mybanner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width:200vh
+}
+.persons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.persons img{
+    display: flex;
+    border-radius: 50%;
+}
+.profiles h1{
+    display: flex;
+    justify-content: center;
+}    
+    
+ .Schooled{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+ }   
+
+.schooled h1{
+    margin-bottom: 3px;
+    font: size 4.5em; 
+    color: whitesmoke;
+}
+/*====quote section*/
+.quote{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #C271FF;
+    color:whitesmoke
+}
+
+.quote1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.qstyle p{
+    display:flex;
+    font-family: serif;
+}
+/*===videos==*/
+.videos{
+    display:flex;
+    flex-direction: column;
+    height:auto;
+    width:auto;
+
+}
+videos h1{
+    display: flex;
+    justify-content: center;
+    font-weight: 5px;
+    font-size:x-large
+}
+.tutorials{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.tutor{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    margin: 0%;
+    padding: 0%;
+}
+
+.tutor img, h5,p{
+    margin:0%;
+    padding:0%;
+}
+.Mass,.rate{
+    margin: 0%;
+    padding:0%;
+}
+.Mass ,image, h6{
+    display:flex;
+    flex-direction: row;
+    margin:0%;
+    padding:0%;
+}
+.rate img,p{
+  margin: 0%;
+  padding: 0%;
+}
+.Mass{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    }
+ .Mass img {
+    width:25px;
+    height:25px;
+ } 
+ .Mass h6, .rate p{
+    color:#C271FF;
+ } 
+ .rate{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    width:40vh;
+    align-items:center;
+     }
+.rate img{
+    width:120px;
+    height:25px;
+}  
+/*==membership==*/
+.members{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: normal;
+    background-color: #071629;
+    color:whitesmoke;
+} 
+.main-member{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-right: 50px;
+}   
+
+.members h1, faq h1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+}
+.juniormember{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size:x-small;
+ }
+
+.cta{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:30vh;
+    height:5vh;
+    margin-top:10px;
+    border-color: #C271FF;
+    border-radius: 50px;
+    background-color: #C271FF;
+}
+
+/*FAQ SECTION===*/
+.faqcontainer{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+ .rowblock{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:0;
+    width: 200vh;
+    height:20vh;
+ }
+
+ /*===footer===*/
+ .global-block{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    background-color: black;
+    color:whitesmoke;
+    height:20vh;
+ }
+ .logblock{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+ }
+ .social-media{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:20vh;
+ }
+ .social img{
+    width: 25px;
+    height:25px;
+ }
+ .smiles{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+ }
