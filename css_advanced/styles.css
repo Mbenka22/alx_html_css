@@ -53,7 +53,7 @@
 
 .profiles{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     width:200vh
 }
@@ -234,10 +234,10 @@
 /*FAQ SECTION===*/
 .faqcontainer{
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-around;
 }
- .rowblock{
+ /*.rowblock{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -245,7 +245,7 @@
     width: 200vh;
     height:20vh;
  }
-
+*/
  /*===footer===*/
  .global-block{
     display:flex;
@@ -270,9 +270,9 @@
     width: 25px;
     height:25px;
  }
- .smiles{
+/* .smiles{
     display:flex;
     flex-direction: row;
     justify-content: center;
     align-items: flex-end;
- }
+ }*/
