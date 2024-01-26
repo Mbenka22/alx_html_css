@@ -1,1 +1,1 @@
-This is my first attempt at creating a fully functionall webpage from scratch.
+The readme is a descirpition of hOw the best headphones "HEADPHONES" website has been built including the fonts and styles used.
