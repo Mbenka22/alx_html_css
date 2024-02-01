@@ -43,7 +43,7 @@ ul a{
     color: whitesmoke;
 }
 ul a:hover{
-    color:#FF6565;
+    color:cyan;
 }
 
 .header-text{
@@ -69,7 +69,7 @@ button:hover{
     display: flex;
     flex-direction: row;
     text-align: center;
-    font-family:url(SourceSansPro-Regular.otf);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
 }
 
