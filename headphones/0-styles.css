@@ -83,3 +83,23 @@ header{
     position:absolute;
     padding: 15px;
 }
+footer{
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+    background-color:grey;
+    padding :20px;
+    justify-content: space-between;
+}
+footer image{
+    width: 100%; 
+    margin: 15px; 
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+footer p {
+    align-self: flex-end; 
+    margin: 0;
+}
+
