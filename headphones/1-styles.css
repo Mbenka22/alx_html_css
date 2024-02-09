@@ -1,0 +1,16 @@
+.header{
+    background-image: url(images/headphones_hero_1.jpg);
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-self: flex-start;
+}
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    font-style: italic;
+    justify-content: flex-end;
+    
+}
